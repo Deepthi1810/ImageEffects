@@ -13,7 +13,7 @@ This is built using OpenCV.It is converted to web app using Streamlit.
 ![alt text](4.jpeg)<br>
 
 # Web App
-![alt text](5.jpeg)<br>
+![alt text](5.png)<br>
 <ul>
   <li>pip install streamlit </li>
   <li> streamlit run app.py (run in conda env)</li>
